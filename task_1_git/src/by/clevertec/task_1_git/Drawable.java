@@ -1,5 +1,5 @@
 package by.clevertec.task_1_git;
 
 public interface Drawable {
-    // E F
+    // E F R
 }
