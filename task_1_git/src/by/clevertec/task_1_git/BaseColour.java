@@ -5,5 +5,5 @@ public abstract class BaseColour implements Drawable {
     protected String colourCode;
     // A
     // B C D J
-    // O P R
+    // O P R S
 }
