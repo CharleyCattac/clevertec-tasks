@@ -5,4 +5,5 @@ public class CmykColour extends BaseColour {
     int m;
     int y;
     int k;
+    // G H I
 }
