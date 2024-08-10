@@ -4,4 +4,5 @@ public class RgbColour extends BaseColour {
     int r;
     int g;
     int b;
+    // K
 }
