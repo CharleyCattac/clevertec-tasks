@@ -1,4 +1,4 @@
-package by.clevertec.utils_edited;
+package by.clevertec.utils;
 
 public class StringUtils {
 
