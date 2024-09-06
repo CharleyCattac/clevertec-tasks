@@ -1,14 +1,17 @@
 plugins {
     id 'java'
-    id "io.freefair.lombok" version "6.5.1"
+    id "io.freefair.lombok" version "8.10"
 }
 
 group = 'by.clevertec'
 version = '1.0-SNAPSHOT'
-sourceCompatibility = '17'
 
 repositories {
     mavenCentral()
+}
+
+java {
+    sourceCompatibility = targetCompatibility = JavaVersion.VERSION_21
 }
 
 dependencies {
